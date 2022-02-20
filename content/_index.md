@@ -4,7 +4,7 @@ title = "Consultoria Settle"
 
 ## Consultoria em Tecnologia da Informação
 
-Com o crescimento da internet e o surgimento de várias soluções para os problemas do dia a dia, temos ficado cada vez mais acomodados e relaxados, porém, sem perceber o risco que é termos nossos dados e segurança em mãos de terceiros, sem saber se este terceiro irá zelar e garantir a integridade, além de estarmos expostos a uma grande variedade de ameaças ou até mesmo atacantes, adversários ou até mesmo, por agentes autoritários.
+Com o crescimento da internet e o surgimento de várias soluções para os problemas do dia a dia, temos ficado cada vez mais acomodados e relaxados, porém, sem perceber o risco que é termos nossos dados e segurança em mãos de terceiros, sem saber se este terceiro irá zelar e garantir a integridade, além de estarmos expostos a uma grande variedade de ameaças, atacantes, adversários ou até mesmo, por agentes autoritários.
 
 Para isto, temos soluções em consultoria para que você retome o controle sobre sua segurança e seus dados.
 
