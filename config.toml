@@ -1,6 +1,6 @@
 baseURL = "https://settee.redrat.com.br/"
 languageCode = "pt-br"
-title = "Consultoria Settle"
+title = "Consultoria Settee"
 theme = "researcher"
 enableEmoji = true
 googleAnalytics = "G-82P3DH8MYV"
@@ -11,7 +11,7 @@ defaultContentLanguage = "pt-br"
     languageName = "Português Brasileiro"
     weight = 1
     [languages.pt-br.params]
-      description = "Consultoria Settle"
+      description = "Consultoria Settee"
     [languages.pt-br.menu]
       [[languages.pt-br.menu.main]]
         name = "Consultoria"
