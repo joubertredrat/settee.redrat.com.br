@@ -1,8 +1,8 @@
 +++
-title = "Consultoria Settee"
+title = "Consultoria Clientes da Settee"
 +++
 
-## Consultoria em Tecnologia da Informação
+## Consultoria para clientes da Settee em Tecnologia da Informação
 
 Com o crescimento da internet e o surgimento de várias soluções para os problemas do dia a dia, temos ficado cada vez mais acomodados e relaxados, porém, sem perceber o risco que é termos nossos dados e segurança em mãos de terceiros, sem saber se este terceiro irá zelar e garantir a integridade, além de estarmos expostos a uma grande variedade de ameaças, atacantes, adversários ou até mesmo, por agentes autoritários.
 
@@ -43,3 +43,7 @@ Além de projetos acima, também temos consultoria em outros temas dentro da Tec
 
 * Gestão e segurança em soluções de nuvem, como AWS, GCP, Digital Ocean, Vultr, OVH, Hetzner, Scaleway, etc.
 * Arquitetura, engenharia e segurança de software voltada para web, como APIs, microservices e relacionados.
+
+### Interessado? entre em contato conosco
+
+Você pode entrar em contato através do e-mail settee@redrat.com.br para conversarmos sobre suas demandas.
